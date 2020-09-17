@@ -26,7 +26,7 @@ class NewUser(unittest.TestCase):
         password = driver.find_element_by_id('password')
         confirm_password = driver.find_element_by_id('confirmation')
         submit_button = driver.find_element_by_xpath('/html/body/div/div[2]/div[2]/div/div/div[2]/form/div[2]/button')
-        #To simplify create a list of the elements in the form to manipulate them easily using a loop
+        #To simplify create a list of the elements in the form to manipulate them easily using a loop   
         form_fields=[firstName,middleName,lastName,email,password,confirm_password]
 
         #Check if everything that we need is enabled
