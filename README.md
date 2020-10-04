@@ -1,2 +1,2 @@
 # Selenium-Practice
-This repository contains little programs were I use Python to learn and practice with Selenium
+This repository contains little programs where I use Python to learn and practice with Selenium
